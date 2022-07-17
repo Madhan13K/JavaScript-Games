@@ -1,7 +1,7 @@
 const options = {
 	method: 'GET',
 	headers: {
-		'X-RapidAPI-Key': 'ca4a520701msh59030f1708abc44p1f9b92jsn98f4c20edb05',
+		'X-RapidAPI-Key': '',
 		'X-RapidAPI-Host': 'mashape-community-urban-dictionary.p.rapidapi.com'
 	}
 };
